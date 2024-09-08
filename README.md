@@ -11,7 +11,7 @@ Quick Sign is a lightweight web-based application for capturing and saving digit
 
 ## Demo
 
-You can check out the live demo of Quick Sign [here](#).
+You can check out the live demo of Quick Sign [here](https://syedtasavour.github.io/Quick-Sign/).
 
 ## Technologies Used
 
